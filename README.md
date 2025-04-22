@@ -11,9 +11,33 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 ## Решение
+
 Разварачиваем виртуальную машину Vagrant
+
 ![Название скриншота 1](https://github.com/stettem/8-02-HW/blob/9004443fe69eabe86b93d84c82de0c363261e3f0/img/111.png)
 
+Запуск nexus в контейнере:
+
+![Название скриншота 2](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.1.png)
+
+Вывести пароль администратора для первого логина в Nexus:
+
+![Название скриншота 3](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.2.png)
+
+Логинимся и доустанавливаем модули
+![Название скриншота 4](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.3.png)
+
+![Название скриншота 5](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.4.png)
+
+Создаю новый item: my_pipeline тип: freestyle
+
+![Название скриншота 6](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.9.png)
+
+![Название скриншота 7](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.7.png)
+
+![Название скриншота 8](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.10.png)
+
+![Название скриншота 9](https://github.com/stettem/8-02-HW/blob/3288a6899494abde7bc5b8b66909866e9bfd80cb/img/1.11.png)
 
 
 
